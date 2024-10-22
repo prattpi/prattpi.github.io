@@ -1,0 +1,49 @@
+img {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+#one {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+#two {
+    width: 20%;
+    background-color: #F555FF;
+    position: relative;
+}
+#three {
+    width: 70%;
+    background-color: #F12104;
+    position: relative;
+    top: -55px;
+    left: 25%;
+}
+#four {
+    height: 40px;
+    background-color: dimgray;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+* {
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
